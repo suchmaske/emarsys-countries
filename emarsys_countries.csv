@@ -1,0 +1,248 @@
+country	iso_alpha_2	iso_alpha_3	iso_numeric	emarsys_id
+Afghanistan	AF	AFG	4	1
+Albania	AL	ALB	8	2
+Algeria	DZ	DZA	12	3
+Andorra	AD	AND	20	4
+Angola	AO	AGO	24	5
+Antigua and Barbuda	AG	ATG	28	6
+Argentina	AR	ARG	32	7
+Armenia	AM	ARM	51	8
+Australia	AU	AUS	36	9
+Austria	AT	AUT	40	10
+Azerbaijan	AZ	AZE	31	11
+Bahamas	BS	BHS	44	12
+Bahrain	BH	BHR	48	13
+Bangladesh	BD	BGD	50	14
+Barbados	BB	BRB	52	15
+Belarus	BY	BLR	112	16
+Belgium	BE	BEL	56	17
+Belize	BZ	BLZ	84	18
+Benin	BJ	BEN	204	19
+Bhutan	BT	BTN	64	20
+Bolivia	BO	BOL	68	21
+Bosnia and Herzegovina	BA	BIH	70	22
+Botswana	BW	BWA	72	23
+Brazil	BR	BRA	76	24
+Brunei Darussalam	BN	BRN	96	25
+Bulgaria	BG	BGR	100	26
+Burkina Faso	BF	BFA	854	27
+Burundi	BI	BDI	108	29
+Cambodia	KH	KHM	116	30
+Cameroon	CM	CMR	120	31
+Canada	CA	CAN	124	32
+Cape Verde	CV	CPV	132	33
+Central African Republic	CF	CAF	140	34
+Chad	TD	TCD	148	35
+Chile	CL	CHL	152	36
+China	CN	CHN	156	37
+Colombia	CO	COL	170	38
+Comoros	KM	COM	174	39
+Congo	CG	COG	178	40
+Congo, Democratic Republic of the	CD	COD	180	41
+Costa Rica	CR	CRI	188	42
+Cote d’Ivoire	CI	CIV	384	43
+Croatia	HR	HRV	191	44
+Cuba	CU	CUB	192	45
+Cyprus	CY	CYP	196	46
+Czech Republic	CZ	CZE	203	47
+Denmark	DK	DNK	208	48
+Djibouti	DJ	DJI	262	49
+Dominica	DM	DMA	212	50
+Dominican Republic	DO	DOM	214	51
+Ecuador	EC	ECU	218	52
+Egypt	EG	EGY	818	53
+El Salvador	SV	SLV	222	54
+Equatorial Guinea	GQ	GNQ	226	55
+Eritrea	ER	ERI	232	56
+Estonia	EE	EST	233	57
+Ethiopia	ET	ETH	231	58
+Fiji	FJ	FJI	242	59
+Finland	FI	FIN	246	60
+France	FR	FRA	250	61
+Gabon	GA	GAB	266	62
+Gambia, The	GM	GMB	270	63
+Georgia	GE	GEO	268	64
+Germany	DE	DEU	276	65
+Ghana	GH	GHA	288	66
+Greece	GR	GRC	300	67
+Grenada	GD	GRD	308	68
+Guatemala	GT	GTM	320	69
+Guinea	GN	GIN	324	70
+Guinea-Bissau	GW	GNB	624	71
+Guyana	GY	GUY	328	72
+Haiti	HT	HTI	332	73
+Honduras	HN	HND	340	74
+Hungary	HU	HUN	348	75
+Iceland	IS	ISL	352	76
+India	IN	IND	356	77
+Indonesia	ID	IDN	360	78
+Iran	IR	IRN	364	79
+Iraq	IQ	IRQ	368	80
+Ireland	IE	IRL	372	81
+Israel	IL	ISR	376	82
+Italy	IT	ITA	380	83
+Jamaica	JM	JAM	388	84
+Japan	JP	JPN	392	85
+Jordan	JO	JOR	400	86
+Kazakhstan	KZ	KAZ	398	87
+Kenya	KE	KEN	404	88
+Kiribati	KI	KIR	296	89
+Korea, North	KP	PRK	408	90
+Korea, South	KR	KOR	410	91
+Kuwait	KW	KWT	414	92
+Kyrgyzstan	KG	KGZ	417	93
+Laos	LA	LAO	418	94
+Latvia	LV	LVA	428	95
+Lebanon	LB	LBN	422	96
+Lesotho	LS	LSO	426	97
+Liberia	LR	LBR	430	98
+Libya	LY	LBY	434	99
+Liechtenstein	LI	LIE	438	100
+Lithuania	LT	LTU	440	101
+Luxembourg	LU	LUX	442	102
+Macedonia	MK	MKD	807	103
+Madagascar	MG	MDG	450	104
+Malawi	MW	MWI	454	105
+Malaysia	MY	MYS	458	106
+Maldives	MV	MDV	462	107
+Mali	ML	MLI	466	108
+Malta	MT	MLT	470	109
+Marshall Islands	MH	MHL	584	110
+Mauritania	MR	MRT	478	111
+Mauritius	MU	MUS	480	112
+Mexico	MX	MEX	484	113
+Micronesia	FM	FSM	583	114
+Moldova	MD	MDA	498	115
+Monaco	MC	MCO	492	116
+Mongolia	MN	MNG	496	117
+Morocco	MA	MAR	504	118
+Mozambique	MZ	MOZ	508	119
+Myanmar	MM	MMR	104	120
+Namibia	NA	NAM	516	121
+Nauru	NR	NRU	520	122
+Nepal	NP	NPL	524	123
+The Netherlands	NL	NLD	528	124
+New Zealand	NZ	NZL	554	125
+Nicaragua	NI	NIC	558	126
+Niger	NE	NER	562	127
+Nigeria	NG	NGA	566	128
+Norway	NO	NOR	578	129
+Oman	OM	OMN	512	130
+Pakistan	PK	PAK	586	131
+Palau	PW	PLW	585	132
+Panama	PA	PAN	591	134
+Papua New Guinea	PG	PNG	598	135
+Paraguay	PY	PRY	600	136
+Peru	PE	PER	604	137
+Philippines	PH	PHL	608	138
+Poland	PL	POL	616	139
+Portugal	PT	PRT	620	140
+Qatar	QA	QAT	634	141
+Romania	RO	ROU	642	142
+Russia	RU	RUS	643	143
+Rwanda	RW	RWA	646	144
+St. Kitts and Nevis	KN	KNA	659	145
+St. Lucia	LC	LCA	662	146
+St. Vincent and The Grenadines	VC	VCT	670	147
+Samoa	WS	WSM	882	148
+San Marino	SM	SMR	674	149
+São Tomé and Príncipe	ST	STP	678	150
+Saudi Arabia	SA	SAU	682	151
+Senegal	SN	SEN	686	152
+Serbia	RS	SRB	688	153
+Seychelles	SC	SYC	690	154
+Sierra Leone	SL	SLE	694	155
+Singapore	SG	SGP	702	156
+Slovakia	SK	SVK	703	157
+Slovenia	SI	SVN	705	158
+Solomon Islands	SB	SLB	90	159
+Somalia	SO	SOM	706	160
+South Africa	ZA	ZAF	710	161
+Spain	ES	ESP	724	162
+Sri Lanka	LK	LKA	144	163
+Sudan	SD	SDN	729	164
+Suriname	SR	SUR	740	165
+Swaziland	SZ	SWZ	748	166
+Sweden	SE	SWE	752	167
+Switzerland	CH	CHE	756	168
+Syria	SY	SYR	760	169
+Taiwan	TW	TWN	158	170
+Tajikistan	TJ	TJK	762	171
+Tanzania	TZ	TZA	834	172
+Thailand	TH	THA	764	173
+Togo	TG	TGO	768	174
+Tonga	TO	TON	776	175
+Trinidad and Tobago	TT	TTO	780	176
+Tunisia	TN	TUN	788	177
+Turkey	TR	TUR	792	178
+Turkmenistan	TM	TKM	795	179
+Tuvalu	TV	TUV	798	180
+Uganda	UG	UGA	800	181
+Ukraine	UA	UKR	804	182
+United Arab Emirates	AE	ARE	784	183
+United Kingdom	GB	GBR	826	184
+United States of America	US	USA	840	185
+Uruguay	UY	URY	858	186
+Uzbekistan	UZ	UZB	860	187
+Vanuatu	VU	VUT	548	188
+Vatican City	VA	VAT	336	189
+Venezuela	VE	VEN	862	190
+Vietnam	VN	VNM	704	191
+Western Sahara	EH	ESH	732	192
+Yemen	YE	YEM	887	193
+Yugoslavia	YU	YUG	891	194
+Zaire	ZR	ZAR	180	195
+Zambia	ZM	ZMB	894	196
+Zimbabwe	ZW	ZWE	716	197
+Greenland	GL	GRL	304	198
+Virgin Islands	VI	VIR	850	199
+Canary Islands	IC			201
+Montenegro	ME	MNE	499	202
+Gibraltar	GI	GIB	292	203
+Netherlands Antilles	AN	ANT	530	204
+Hong Kong	HK	HKG	344	205
+Macau	MO	MAC	446	206
+Isle of Man	IM	IMN	833	257
+East Timor	TL	TLS	626	258
+Kosovo	XK	XKX		259
+Åland Islands	AX	ALA	248	260
+Anguilla	AI	AIA	660	261
+Aruba	AW	ABW	533	262
+Bermuda	BM	BMU	60	263
+Bouvet Island	BV	BVT	74	264
+British Indian Ocean Territory	IO	IOT	86	265
+Cayman Islands	KY	CYM	136	266
+Christmas Island	CX	CXR	162	267
+Cocos (Keeling) Islands	CC	CCK	166	268
+Cook Islands	CK	COK	184	269
+Curaçao	CW	CUW	531	270
+Falkland Islands	FK	FLK	238	271
+French Guiana	GF	GUF	254	272
+French Polynesia	PF	PYF	258	273
+French Southern and Antarctic Lands	TF	ATF	260	274
+Guadeloupe	GP	GLP	312	275
+Guernsey	GG	GGY	831	276
+Heard Island and McDonald Islands	HM	HMD	334	277
+Jersey	JE	JEY	832	278
+Martinique	MQ	MTQ	474	279
+Mayotte	YT	MYT	175	280
+Montserrat	MS	MSR	500	281
+New Caledonia	NC	NCL	540	282
+Niue	NU	NIU	570	283
+Norfolk Island	NF	NFK	574	284
+Palestinian territories	PS	PSE	275	285
+Pitcairn Islands	PN	PCN	612	286
+Réunion	RE	REU	638	287
+Saint Barthélemy	BL	BLM	652	288
+Saint Helena	SH	SHN	654	289
+Saint Martin	MF	MAF	663	290
+Saint Pierre and Miquelon	PM	SPM	666	291
+Sint Maarten	SX	SXM	534	292
+South Georgia and the South Sandwich Islands	GS	SGS	239	293
+South Sudan	SS	SSD	728	294
+Svalbard and Jan Mayen	SJ	SJM	744	295
+Tokelau	TK	TKL	772	296
+Turks and Caicos Islands	TC	TCA	796	297
+United States Minor Outlying Islands	UM	UMI	581	298
+Wallis and Futuna	WF	WLF	876	299
+Faroe Islands	FO	FRO	234	300
