@@ -6,7 +6,9 @@ A small library to map country [ISO-3166-1](https://en.wikipedia.org/wiki/List_o
 
 ## Installation
 
-TBD
+```
+composer require suchmaske/emarsys-countries
+```
 
 ## Run Tests
 
