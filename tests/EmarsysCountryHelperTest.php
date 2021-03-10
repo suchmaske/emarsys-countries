@@ -1,6 +1,6 @@
 <?php
 
-use Bonnyprints\EmarsysCountries\EmarsysCountryHelper;
+use Suchmaske\EmarsysCountries\EmarsysCountryHelper;
 use PHPUnit\Framework\TestCase;
 
 class EmarsysCountryHelperTest extends TestCase
@@ -29,7 +29,7 @@ class EmarsysCountryHelperTest extends TestCase
      */
     public function testFailGetCountryIdByIsoCode2WithInvalidInput($invalidInput)
     {
-        $this->expectException(\UnexpectedValueException::class);
+        $this->expectException(UnexpectedValueException::class);
         EmarsysCountryHelper::getCountryIdByIsoCode2($invalidInput);
     }
 
@@ -69,7 +69,7 @@ class EmarsysCountryHelperTest extends TestCase
      */
     public function testFailGetCountryIdByIsoCode3WithInvalidInput($invalidInput)
     {
-        $this->expectException(\UnexpectedValueException::class);
+        $this->expectException(UnexpectedValueException::class);
         EmarsysCountryHelper::getCountryIdByIsoCode3($invalidInput);
     }
 
@@ -109,7 +109,7 @@ class EmarsysCountryHelperTest extends TestCase
      */
     public function testFailGetCountryIdByIsoCodeNumWithInvalidInput($invalidInput)
     {
-        $this->expectException(\UnexpectedValueException::class);
+        $this->expectException(UnexpectedValueException::class);
         EmarsysCountryHelper::getCountryIdByNumericIsoCode($invalidInput);
     }
 

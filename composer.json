@@ -1,23 +1,23 @@
 {
-  "name": "bonnyprints/emarsys-countries",
+  "name": "suchmaske/emarsys-countries",
   "description": "A class to map country codes and country names to Emarsys' specified country Ids.",
   "minimum-stability": "stable",
-  "license": "proprietary",
+  "license": "MIT",
   "authors": [
     {
       "name": "Oliver Pohl",
-      "email": "it@wunderkarten.de"
+      "email": "oliverpohl@datenbistro.de"
     }
   ],
   "autoload": {
     "psr-4": {
-      "Bonnyprints\\EmarsysCountries\\": "src/"
+      "Suchmaske\\EmarsysCountries\\": "src/"
     }
   },
   "require": {
     "php": ">=5.6"
   },
   "require-dev": {
-    "phpunit/phpunit": "^8.5"
+    "phpunit/phpunit": "^5"
   }
 }

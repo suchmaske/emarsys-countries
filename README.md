@@ -8,10 +8,27 @@ A small library to map country [ISO-3166-1](https://en.wikipedia.org/wiki/List_o
 
 TBD
 
+## Run Tests
+
+### Directly 
+
+
+```
+composer install
+vendor/bin/phpunit tests
+```
+
+### Docker
+
+```
+make init
+make test
+```
+
 ## Usage
 
 ```php
-use Bonnyprints\EmarsysCountries\EmarsysCountryHelper;
+use Suchmaske\EmarsysCountries\EmarsysCountryHelper;
 
 ...
 

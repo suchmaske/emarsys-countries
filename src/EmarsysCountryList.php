@@ -1,6 +1,6 @@
 <?php
 
-namespace Bonnyprints\EmarsysCountries;
+namespace Suchmaske\EmarsysCountries;
 
 class EmarsysCountryList
 {
